@@ -52,8 +52,12 @@ This structure ensures that the multiplier outputs an approximate but computatio
 # Results and Analysis
 Mean relative error: 8.875% (less than 15%)
 ![1](https://github.com/user-attachments/assets/55d52fab-18fa-4c8d-a328-defc38fe4a15)
+
+
 LUT Utilization: Number of LUTs = 8 (less than 12)
 ![2](https://github.com/user-attachments/assets/39f8bca4-4b49-4271-b648-9af893867f87)
+
+
 Power Utilization: 
 ![3](https://github.com/user-attachments/assets/3334c972-86c5-44a4-a061-578a2ef0eaf6)
 
